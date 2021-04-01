@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![GitHub User States](https://github-readme-stats.vercel.app/api?username=Lineflyer&show_icons=true&include_all_commits=true&theme=dark&hide=stars)](https://github.com/Lineflyer)
+[![GitHub User States](https://github-readme-stats.vercel.app/api?username=Lineflyer&show_icons=true&include_all_commits=true&theme=dark&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Lineflyer/Lineflyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
